@@ -714,7 +714,10 @@ footer {
     .name h1 {
         font-size: 45px;
     }
-
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
     .navbar {
         position: sticky;
         top: 0px;
