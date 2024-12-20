@@ -1042,6 +1042,12 @@ body{
         font-size: 20px;
         margin-top: 50px;
     }
+    .big2 h1 {
+        font-size: 25px;
+        width: 170px;
+        margin-left: 70px;
+        margin-top: 30px;
+    }
 
     .big2 .spn {
         color: #000;
