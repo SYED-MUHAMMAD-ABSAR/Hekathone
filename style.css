@@ -1039,8 +1039,10 @@ body{
 
     .big2 h5 {
         color: #4527B1;
-        font-size: 20px;
-        margin-top: 50px;
+        text-transform: capitalize;
+        font-size: 40px;
+        margin-top: -20px;
+        width: 400px;
     }
     .big2 h1 {
         font-size: 25px;
@@ -1061,7 +1063,7 @@ body{
         margin-left: 0px;
         font-size: 12px;
         border-radius: 30px;
-        margin-top: 60px;
+        margin-top: 10px;
         line-height: 20px;
     }
 
