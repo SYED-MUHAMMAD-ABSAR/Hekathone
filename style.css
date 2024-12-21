@@ -506,7 +506,6 @@ li {
     font-size: 50px;
 }
 
-
 .sub1 .nasra,
 .sub1 .jinnah,
 .sub1 .uni,
@@ -549,9 +548,6 @@ li {
 .big-container {
     background-color: #4527B1;
     width: 100%;
-
-
-
 }
 
 .con>p {
@@ -679,22 +675,13 @@ h2 {
     margin-top: 40px;
 }
 
-
-
-
-
-
-
-
-
-
-
 /* contact us */
 
-.contact-us{
+.contact-us {
     height: 100vh;
     margin-top: -25px;
-    }
+}
+
 /* footer */
 
 footer {
@@ -707,17 +694,16 @@ footer {
 
 
 
-
-
-
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) and (min-width: 600px) {
     .name h1 {
         font-size: 45px;
     }
-body{
-    width: 100%;
-    overflow-x: hidden;
-}
+
+    body {
+        width: 100vw;
+        overflow-x: hidden;
+    }
+
     .navbar {
         position: sticky;
         top: 0px;
@@ -1044,6 +1030,7 @@ body{
         margin-left: 40px;
         width: 240px;
     }
+
     .big2 h1 {
         font-size: 30px;
         width: 250px;
@@ -1170,5 +1157,8 @@ body{
         height: 40px;
         margin-top: 10px;
         margin-left: 100px;
+    }
+    .h6{
+        font-size: 15px;
     }
 }
