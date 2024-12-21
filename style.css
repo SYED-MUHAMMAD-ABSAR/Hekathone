@@ -1040,13 +1040,11 @@ body{
     .big2 h5 {
         color: #4527B1;
         text-transform: capitalize;
-        font-size: 30px;
         margin-top: -20px;
     }
     .big2 h1 {
-        font-size: 25px;
-        width: 170px;
-        margin-left: 70px;
+        font-size: 30px;
+        width: 250px;
         margin-top: 30px;
     }
 
